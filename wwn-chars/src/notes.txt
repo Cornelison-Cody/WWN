@@ -1,0 +1,14 @@
+Name Randomizer
+Homeland Randomizer (Race)
+Background Randomizer (Growths?)
+Class Randomizer (Spells)
+Attributes Randomizer (STR, DEX, CON, INT, WIS, CHA) W/Bonus 3 4-7 8-13 14-17 18 +RANDOM 14
+HP Calc
+Saves Calc
+Attack Bonuses Calc
+AC Calc
+Foci Randomizer
+Skill Randomizer (Determined)
+Weapons / Item Packs (Class dependant?)
+Maybe Goals, Description, 
+Magical Arts Randomizer
